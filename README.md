@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+I'm a Computer Science student passionate about coding.
+
+## 📊 GitHub Activity
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yadhuuu1110&theme=github-dark)
+
+## 🔥 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yadhuuu1110&show_icons=true&theme=dark)
+
 <!--
 **yadhuuu1110/yadhuuu1110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
